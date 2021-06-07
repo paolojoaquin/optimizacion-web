@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">
-  Proyecto del Curso: Optimización Web
+  Proyecto del Curso: Optimización Web "Platzi"
 </h1>
 <p align="center">
   <a href="https://platzi-optimizacion-web.netlify.app" target="_blank">
